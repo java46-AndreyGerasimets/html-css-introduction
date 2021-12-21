@@ -1,0 +1,27 @@
+.body {
+    text-align: center;
+}
+.main-content {
+    text-align: center;
+}
+.title {
+    text-align: center;
+    font-size: 35px;
+}
+.paragraph {
+    display: inline-block;
+    width: fit-content;
+    text-align: left;
+}
+.image-link {
+    display: block;
+    padding: 4px;
+}
+.image {
+    width: 25px;
+    vertical-align: middle;
+}
+.text-link {
+    font-size: 25px;
+    vertical-align: middle;
+}
