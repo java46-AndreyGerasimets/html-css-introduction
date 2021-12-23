@@ -6,12 +6,12 @@
 .title {
     font-size: 35px;
 }
+/* Not neccesary at this point 
 .main-content {
-    /* not neccessary at this point */
 }
 .paragraph {
-    /* also not neccessary at this point */
 }
+*/
 .image-link {
     display: flex;
     padding: 4px; 
