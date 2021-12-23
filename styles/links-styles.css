@@ -1,27 +1,25 @@
 .body {
-    text-align: center;
-}
-.main-content {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .title {
-    text-align: center;
     font-size: 35px;
 }
+.main-content {
+    /* not neccessary at this point */
+}
 .paragraph {
-    display: inline-block;
-    width: fit-content;
-    text-align: left;
+    /* also not neccessary at this point */
 }
 .image-link {
-    display: block;
-    padding: 4px;
+    display: flex;
+    padding: 4px; 
 }
 .image {
-    width: 25px;
-    vertical-align: middle;
+    width: 30px;
 }
 .text-link {
     font-size: 25px;
-    vertical-align: middle;
+    padding-left: 4px;
 }
